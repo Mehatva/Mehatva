@@ -8,13 +8,13 @@ My core focus is on moving AI out of Jupyter notebooks and into robust, scalable
 
 ### 🚀 Core Engineering Projects
 
-#### 1. [Lumis AI: Agentic Business Chatbot](https://github.com/Mehatva/Lumis-AI)
+#### 1. [Lumis AI: Agentic Business Chatbot](https://github.com/Mehatva/Lumis-AI-Architecture)
 *Python, FastAPI, Meta Graph API, AWS, Agentic AI*
 - Architected a multi-tenant, recursive agentic AI chatbot designed for Instagram business automation.
 - Handled end-to-end Meta OAuth onboarding, structured logging, and robust state management.
 - Successfully hardened the system for public launch and Meta App Review compliance.
 
-#### 2. [Autonomous Intraday Trading Bot](https://github.com/Mehatva/Trading-Bot)
+#### 2. [Autonomous Intraday Trading Bot](https://github.com/Mehatva/Algorithmic-Trading-Architecture)
 *Python, Docker, AWS EC2, Financial APIs*
 - Engineered a fully autonomous algorithmic trading system deployed via Docker on AWS.
 - Implemented institutional-grade risk management: hard circuit breakers, precise PnL tax/brokerage calculation engines, and automated 3:15 PM daily square-offs.
