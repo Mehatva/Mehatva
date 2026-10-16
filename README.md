@@ -1,41 +1,40 @@
 # Hi there, I'm Mehatva 👋
 
-I am a software engineer and AI researcher specializing in **Production AI Systems, Agentic Architectures, and High-Frequency Trading Infrastructure**. 
+I am a software engineer specializing in **High-Performance Systems, Backend Infrastructure, and Production AI Architectures**.
 
-My core focus is on moving AI out of Jupyter notebooks and into robust, scalable, and risk-managed production environments.
+My core focus is on building low-latency, resilient, and enterprise-grade software architectures — from native C++ inference engines to scalable distributed backend systems.
 
 ---
 
 ### 🚀 Core Engineering Projects
 
-#### 1. [Lumis AI: Agentic Business Chatbot](https://github.com/Mehatva/Lumis-AI-Architecture)
-*Python, FastAPI, Meta Graph API, AWS, Agentic AI*
-- Architected a multi-tenant, recursive agentic AI chatbot designed for Instagram business automation.
-- Handled end-to-end Meta OAuth onboarding, structured logging, and robust state management.
-- Successfully hardened the system for public launch and Meta App Review compliance.
+#### 1. [SwarVed AI: On-Device Anti-Scam Call Interceptor](https://github.com/Mehatva/swarved-ai)
+*C++, ONNX Runtime, Python (FastAPI), Android (JNI/Kotlin), WebSockets*
+- **Developed for Smart India Hackathon (SIH) 2026** (Ministry of Home Affairs / I4C Track).
+- Engineered a real-time on-device audio stream interceptor with **<45ms latency** using an optimized C++ JNI bridge and INT8 quantized Dual-Stream ONNX models.
+- Processes audio in volatile RAM micro-buffers (zero disk writes for privacy) and integrates automated incident dispatch to the National Cyber Crime Helpline (1930 I4C Gateway).
 
-#### 2. [Autonomous Intraday Trading Bot](https://github.com/Mehatva/Algorithmic-Trading-Architecture)
-*Python, Docker, AWS EC2, Financial APIs*
-- Engineered a fully autonomous algorithmic trading system deployed via Docker on AWS.
-- Implemented institutional-grade risk management: hard circuit breakers, precise PnL tax/brokerage calculation engines, and automated 3:15 PM daily square-offs.
-- Built a persistent state machine to manage overnight risk, market holidays, and extreme drawdown protection.
+#### 2. [Lumis AI: Multi-Tenant Agentic Business Platform](https://github.com/Mehatva/Lumis-AI-Architecture)
+*Python, FastAPI, Meta Graph API, AWS, Docker, Microservices*
+- Architected a multi-tenant, recursive agentic AI system for enterprise business automation.
+- Built end-to-end OAuth onboarding, persistent state machines, and resilient webhook event pipelines hardened for Meta App Review compliance.
 
-#### 3. [Neural News Verifier (Fake News Detector)](https://github.com/Mehatva/Neural-News-Verifier)
-*Transformers (RoBERTa), Explainable AI (XAI), NLP*
-- Developed an advanced NLP pipeline utilizing RoBERTa to classify and verify news authenticity.
-- Integrated Explainable AI methodologies to map model decision paths, providing transparency for black-box transformer predictions.
+#### 3. [Autonomous Intraday Algorithmic Trading Infrastructure](https://github.com/Mehatva/Algorithmic-Trading-Architecture)
+*Python, Docker, AWS EC2, PostgreSQL, Financial APIs*
+- Engineered an automated trading engine deployed via Docker containers on AWS.
+- Designed risk-management engines with hard circuit breakers, transaction tax/brokerage modeling, and real-time order reconciliation state machines.
 
 ---
 
-### 💻 Tech Stack & Capabilities
+### 💻 Tech Stack & Engineering Skills
 
-- **Languages:** Python, JavaScript/TypeScript, SQL, C++
-- **AI & ML:** PyTorch, HuggingFace Transformers, Agentic Architectures, Explainable AI (XAI)
-- **Backend & Cloud:** FastAPI, AWS (EC2/RDS), Docker, RESTful APIs, Webhooks
-- **Financial Engineering:** Algorithmic execution, risk modeling, live market data streams
+- **Languages:** C++, Python, SQL, JavaScript/TypeScript, Java
+- **Backend & Distributed Systems:** FastAPI, Django, PostgreSQL, Redis, Docker, RESTful APIs, WebSockets
+- **Systems & Production AI:** PyTorch, ONNX Runtime, Model Quantization (INT8), Audio DSP, Latency Optimization
+- **Infrastructure & Tools:** Git, Linux/Unix, Docker Compose, AWS (EC2/RDS), Gunicorn/Uvicorn
 
-### 📈 Academic & Professional
-- **CGPA:** 8.52/10
-- Deeply interested in roles involving **Machine Learning Engineering, Distributed Systems, and Quantitative Infrastructure**.
+### 📈 Academic & Career Focus
+- **CGPA:** 8.52 / 10
+- Actively targeting **Software Engineering, Distributed Systems, and Platform Infrastructure** roles.
 
-📫 **Reach me at:** mehatva06@gmail.com
+📫 **Get in touch:** [mehatva06@gmail.com](mailto:mehatva06@gmail.com)
